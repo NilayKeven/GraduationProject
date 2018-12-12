@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">GraduationProject</string>
+    <string name="app_name">Ulusal Biletleme</string>
+    <string name="register_button">Kayıt Ol</string>
+    <string name="phone_number">Telefon Numarası</string>
+    <string name="otp_code">Onay Kodu</string>
+    <string name="user_name">İsim</string>
+    <string name="user_surname">Soyisim</string>
+    <string name="email">E-mail</string>
+    <string name="password">Şifre</string>
 </resources>
